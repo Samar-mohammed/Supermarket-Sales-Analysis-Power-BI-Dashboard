@@ -12,7 +12,7 @@
 🔹 **City-wise Profit Breakdown**  
 🔹 **Monthly Sales Trends**  
 
-![Image Alt]([image_url](https://github.com/Samar-mohammed/Supermarket-Sales-Analysis-Power-BI-Dashboard/blob/main/Product%20Insights.png?raw=true))
+![Image Alt](https://github.com/Samar-mohammed/Supermarket-Sales-Analysis-Power-BI-Dashboard/blob/6beed7bc81284134b1068ce464bc0dcec0192eda/Product%20Insights.png)
 
 
 ### 👥 **Customer Insights**  
@@ -23,7 +23,7 @@
 🔹 **City-wise Revenue Distribution**  
 🔹 **Daily Sales Trends**  
 
-![Image Alt]([image_url](https://github.com/Samar-mohammed/Supermarket-Sales-Analysis-Power-BI-Dashboard/blob/main/Customers%20Insights.png?raw=true)) 
+![Image Alt](https://github.com/Samar-mohammed/Supermarket-Sales-Analysis-Power-BI-Dashboard/blob/6beed7bc81284134b1068ce464bc0dcec0192eda/Customers%20Insights.png)
 
 ---
 
